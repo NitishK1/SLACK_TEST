@@ -1,0 +1,19 @@
+{
+  "name": "nitish-first-npm-package",
+  "version": "1.0.0",
+  "description": "This package is created for testin ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NitishK1/SLACK_TEST.git"
+  },
+  "author": "Nitish Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NitishK1/SLACK_TEST/issues"
+  },
+  "homepage": "https://github.com/NitishK1/SLACK_TEST#readme"
+}
